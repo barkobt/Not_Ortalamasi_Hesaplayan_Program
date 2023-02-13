@@ -1,0 +1,2 @@
+# Not_Ortalamasi_Hesaplayan_Program
+Not Ortalaması Hesaplayan Program Çalışmam
